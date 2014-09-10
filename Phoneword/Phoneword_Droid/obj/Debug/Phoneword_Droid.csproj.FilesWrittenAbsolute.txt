@@ -1,0 +1,13 @@
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/bin/Debug/Phoneword_Droid.dll.mdb
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/bin/Debug/Phoneword_Droid.dll
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/bin/Debug/Phoneword_Droid.Phoneword_Droid.apk
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/android/bin/Phoneword_Droid.Phoneword_Droid.apk
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/res/layout/main.xml
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/res/values/strings.xml
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/res/drawable/icon.png
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/R.cs.flag
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/bin/Debug/Phoneword_Droid.Phoneword_Droid-Signed.apk
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/uploadflags.txt
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/Phoneword_Droid.dll
+/Users/jkwanjooh/Projects/Android_Applications/Phoneword/Phoneword_Droid/obj/Debug/Phoneword_Droid.dll.mdb
